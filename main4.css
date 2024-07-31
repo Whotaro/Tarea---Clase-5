@@ -1,0 +1,27 @@
+#lista-numeros {
+    display: none;
+} 
+
+.resultado {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #dfe6e9;
+    font-style: normal;
+    font-size: 24px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #3498db;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
